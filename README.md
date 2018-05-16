@@ -10,8 +10,6 @@ Time [29:01](https://youtu.be/syA0ElQFw9Q?t=29m1s) How VPC Auto Config works<br 
 Time [32:02](https://youtu.be/syA0ElQFw9Q?t=32m2s) How SSH into your \*swan EC2<br />
 
 
-
-
 # CloudShroud
 CloudShroud is a helper template for Cloudformation which will launch a (Open|Strong)swan server in your VPC depending on your custom requirements, and automate many of the tasks for setting up a VPN. 
 
@@ -20,7 +18,7 @@ features.
 
 ## Launch Instructions
 1) Click here 
-<a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CloudShroud&templateURL=https://s3-us-west-2.amazonaws.com/cloudshroud/cloudshroud.json"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
+<a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CloudShroud&templateURL=parallax/parallax.json"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"/></a>
 2) Ensure that you are in the AWS Region that you want to deploy in, and click *_Next_*
 
 ## Stack Termination Instructions
