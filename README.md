@@ -16,8 +16,6 @@ CloudShroud is a helper template for Cloudformation which will launch a (Open|St
 The goal of this project is to simplify the process of setting up a custom VPN endpoint as much as possible while still affording great flexibility and
 features.
 
-## Contributions
-As with this and all the projects I've developed, it's my great honor and privilege to give credit first to my Lord and Savior, Jesus Christ, who gives me the inspiration, ability, and skills to build. Secondly, I want to acknowledge my lovely wife, Sarah, who is always supportive of me.
 
 ## Launch Instructions
 1) Click here 
